@@ -1,3 +1,3 @@
 # new
-This is my first repository<br color="red">
+This is my first repository
 this is second line
